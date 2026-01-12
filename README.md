@@ -3,8 +3,7 @@
 
 "Innovation is taking two things that already exist and putting them together in a new way." 
 
-IntraCollege is a unified campus ecosystem designed to consolidate essential academic and administrative functions into a single, intuitive application. Developed by Team DuoNova, this platform addresses the daily struggles of a disconnected campus where students and faculty often juggle multiple, fragmented digital silos.
-+2
+IntraCollege is a unified campus ecosystem designed to consolidate essential academic and administrative functions into a single, intuitive application. Developed by Team DuoNova, this platform addresses the daily struggles of a disconnected campus where students and faculty often juggle multiple, fragmented digital work.
 
 ## 🔗 Project Links
 Project Presentation: [View PPT here](https://docs.google.com/presentation/d/1XQzoC-UMicstVMqKImMhAOITaQS8xNS3/edit?usp=drive_link&ouid=102360611705277853678&rtpof=true&sd=true)
