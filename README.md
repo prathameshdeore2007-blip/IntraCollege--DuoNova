@@ -1,8 +1,17 @@
 # Welcome to Intracollege project by DuoNova
+### IntraCollege: Bridging the Campus Experience
 
-## Project info
+"Innovation is taking two things that already exist and putting them together in a new way." 
 
-**URL**: https://lovable.dev/projects/05a60a2a-15e5-40c8-831f-b6ec8b2617cb
+IntraCollege is a unified campus ecosystem designed to consolidate essential academic and administrative functions into a single, intuitive application. Developed by Team DuoNova, this platform addresses the daily struggles of a disconnected campus where students and faculty often juggle multiple, fragmented digital silos.
++2
+
+## 🔗 Project Links
+Project Presentation: [View PPT here](https://docs.google.com/presentation/d/1XQzoC-UMicstVMqKImMhAOITaQS8xNS3/edit?usp=drive_link&ouid=102360611705277853678&rtpof=true&sd=true)
+
+Webapp Demonstration Video: [Watch Video here](https://drive.google.com/file/d/1YX78mOuef5a1fB_aSg-oBth1BheudpD5/view?usp=drive_link)
+
+### Project info:
 
 **Use your preferred IDE**
 
