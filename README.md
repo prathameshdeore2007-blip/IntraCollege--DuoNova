@@ -56,10 +56,18 @@ This project is built with:
 - Vite
 - TypeScript
 - React
-- shadcn-ui
+- shadcn-ui 
 - Tailwind CSS
 
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+### 🔮 Future Roadmap
+We aim to evolve IntraCollege into an intelligent, adaptive hub featuring:
+
+
+AI Integration: Personalized learning pathways and automated administrative support.
+
+
+Advanced Analytics: A dashboard for administrators to gain insights into campus engagement.
+
